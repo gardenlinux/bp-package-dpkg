@@ -1,5 +1,5 @@
 pkg=dpkg
-version=1.22.21
+version=1.22.22
 git_src -b "$version" https://git.dpkg.org/git/dpkg/dpkg.git
 
 # Create .dist-version file for the build-aux/get-version script called from configure
